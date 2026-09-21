@@ -1,5 +1,5 @@
-Working with Numpy Arrays
-Numpy program to print the Numpy version in your system
+#                                                  Exercise-1-Working with Numpy Arrays
+# Numpy program to print the Numpy version in your system
 import numpy as np
 print(np. __version__)
 
