@@ -3,7 +3,7 @@
 import numpy as np
 print(np. __version__)
 
-one-dimensional array
+#one-dimensional array
 import numpy as np
 x = np.arange(2,6).reshape(4)
 print(x)
